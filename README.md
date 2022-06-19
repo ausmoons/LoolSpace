@@ -1,3 +1,5 @@
+[![Video Demo](https://img.youtube.com/vi/nJZ_yA2eDYE/maxresdefault.jpg)](https://www.youtube.com/watch?v=nJZ_yA2eDYE)
+
 ## Inspiration
 
 Currently, in the education process, students are required to memorize many concepts and facts, but not always it is easy. When we read we remember only around 20 %, but when we see things we remember around 80%. We want to **increase the number of items in students' memory using augmented reality**. 
